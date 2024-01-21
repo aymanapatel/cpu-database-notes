@@ -6,6 +6,7 @@
       {
         "id": "16235f19406ad156",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "4be29fbbf27e22b3",
@@ -37,6 +38,7 @@
       {
         "id": "0c6ab262aee252e0",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "45a1517c8017f371",
@@ -51,7 +53,7 @@
                   "src": "https://www.youtube.com/watch?v=uikbtpVZS2s&t=7s",
                   "hash": ""
                 },
-                "currentTime": 1399.5147026490479
+                "currentTime": 3229.019337
               }
             },
             "group": "c87ab6a8704c64f7"
