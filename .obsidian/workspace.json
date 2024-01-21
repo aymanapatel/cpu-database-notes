@@ -4,20 +4,57 @@
     "type": "split",
     "children": [
       {
-        "id": "2545e78c48b42b0d",
+        "id": "16235f19406ad156",
         "type": "tabs",
         "children": [
           {
-            "id": "02efd38809d59ea1",
+            "id": "4be29fbbf27e22b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMU_Advanced/08. Vectorized Query Execution with SIMD.md",
+                "file": "CMU_Intro/01. Relational Model & Model.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "c87ab6a8704c64f7"
+          },
+          {
+            "id": "5cdc9a80c07ec4c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CMU_Intro/02. Modern SQL.md",
                 "mode": "source",
                 "source": false
               }
             }
+          }
+        ]
+      },
+      {
+        "id": "0c6ab262aee252e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "45a1517c8017f371",
+            "type": "leaf",
+            "state": {
+              "type": "media-view",
+              "state": {
+                "info": {
+                  "host": 0,
+                  "id": "uikbtpVZS2s",
+                  "iframe": "https://www.youtube.com/embed/uikbtpVZS2s",
+                  "src": "https://www.youtube.com/watch?v=uikbtpVZS2s&t=7s",
+                  "hash": ""
+                },
+                "currentTime": 880.6020237215271
+              }
+            },
+            "group": "c87ab6a8704c64f7"
           }
         ]
       }
@@ -69,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "8bd5146cbf3c8102",
@@ -85,7 +123,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMU_Advanced/08. Vectorized Query Execution with SIMD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMU_Advanced/08. Vectorized Query Execution with SIMD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +160,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CMU_Advanced/08. Vectorized Query Execution with SIMD.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,12 +182,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "02efd38809d59ea1",
+  "active": "45a1517c8017f371",
   "lastOpenFiles": [
+    "CMU_Intro/01. Relational Model & Model.md",
+    "CMU_Intro/02. Modern SQL.md",
+    "README.md",
+    "SQL_Scripts/Example.js",
+    "SQL_Scripts/Example.sql",
+    "SQL_Scripts/Example copy.sql",
+    "SQL_Scripts/Example.sql.md",
+    "SQL_Scripts",
+    "CMU_Advanced/08. Vectorized Query Execution with SIMD.md",
     "CMU_Advanced/01. History of DBs.md",
     "CMU_Intro/05. Storage Models and DB Compression.md",
-    "README.md",
-    "CMU_Intro/01. Relational Model & Model.md",
     "database-notes/README.md",
     "database-notes/LICENSE",
     "database-notes",
@@ -175,9 +216,6 @@
     "CMU_Advanced/12. Parallel Sort-Merge JOIN Algos.md",
     "CMU_Advanced/10. Query Vectorization vs Compilation.md",
     "CMU_Advanced/09. Query Compilation & JIT Code Generation.md",
-    "CMU_Advanced/11. Parallel Hash JOIN Algos.md",
-    "CMU_Advanced/08. Vectorized Query Execution with SIMD.md",
-    "CMU_Advanced/07. Query Scheduling.md",
     "templates",
     "scripts/returnStudyOptions.js",
     "scripts/my_script.js",
@@ -191,10 +229,6 @@
     "images/CAP_C.png",
     "images/CAP_A.png",
     "images/CAP.jpg",
-    "images",
-    "images/BASE.jpg",
-    "Blogs",
-    "CMU_Advanced",
-    "CMU_Intro"
+    "images/BASE.jpg"
   ]
 }

@@ -4,6 +4,6 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "note type": "text",
-    "status": "text"
+    "status": "multitext"
   }
 }
