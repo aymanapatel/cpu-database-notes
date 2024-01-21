@@ -6,7 +6,6 @@
       {
         "id": "16235f19406ad156",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
             "id": "4be29fbbf27e22b3",
@@ -14,12 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMU_Intro/01. Relational Model & Model.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "c87ab6a8704c64f7"
+            }
           },
           {
             "id": "5cdc9a80c07ec4c7",
@@ -32,31 +30,6 @@
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "0c6ab262aee252e0",
-        "type": "tabs",
-        "dimension": 50,
-        "children": [
-          {
-            "id": "45a1517c8017f371",
-            "type": "leaf",
-            "state": {
-              "type": "media-view",
-              "state": {
-                "info": {
-                  "host": 0,
-                  "id": "uikbtpVZS2s",
-                  "iframe": "https://www.youtube.com/embed/uikbtpVZS2s",
-                  "src": "https://www.youtube.com/watch?v=uikbtpVZS2s&t=7s",
-                  "hash": ""
-                },
-                "currentTime": 4279.573570725342
-              }
-            },
-            "group": "c87ab6a8704c64f7"
           }
         ]
       }
@@ -108,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "8bd5146cbf3c8102",
@@ -125,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ]
@@ -184,7 +160,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "45a1517c8017f371",
+  "active": "4be29fbbf27e22b3",
   "lastOpenFiles": [
     "CMU_Intro/01. Relational Model & Model.md",
     "CMU_Intro/02. Modern SQL.md",
