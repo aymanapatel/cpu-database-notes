@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "CMU_Advanced/08. Vectorized Query Execution with SIMD.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "CMU_Advanced/08. Vectorized Query Execution with SIMD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "CMU_Advanced/08. Vectorized Query Execution with SIMD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "CMU_Advanced/08. Vectorized Query Execution with SIMD.md"
               }
             }
           }
@@ -150,12 +150,14 @@
   },
   "active": "02efd38809d59ea1",
   "lastOpenFiles": [
-    "CMU_Intro/1. Relational Model & Model.md",
+    "CMU_Advanced/01. History of DBs.md",
+    "CMU_Intro/05. Storage Models and DB Compression.md",
     "README.md",
+    "CMU_Intro/01. Relational Model & Model.md",
     "database-notes/README.md",
     "database-notes/LICENSE",
     "database-notes",
-    "CMU_Advanced/2. Modern Analytical DB systems.md",
+    "CMU_Advanced/02. Modern Analytical DB systems.md",
     "CMU_Advanced/24. Amazon Redshift.md",
     "CMU_Advanced/Untitled.md",
     "CMU_Advanced/25..md",
@@ -172,12 +174,10 @@
     "CMU_Advanced/13. Multi-way _ Worst-case Optimal JOIN Algos.md",
     "CMU_Advanced/12. Parallel Sort-Merge JOIN Algos.md",
     "CMU_Advanced/10. Query Vectorization vs Compilation.md",
-    "CMU_Advanced/9. Query Compilation & JIT Code Generation.md",
+    "CMU_Advanced/09. Query Compilation & JIT Code Generation.md",
     "CMU_Advanced/11. Parallel Hash JOIN Algos.md",
-    "CMU_Advanced/8. Vectorized Query Execution with SIMD.md",
-    "CMU_Advanced/7. Query Scheduling.md",
-    "CMU_Advanced/6. Query Execution & Processing Models.md",
-    "CMU_Advanced/5. DB Compression.md",
+    "CMU_Advanced/08. Vectorized Query Execution with SIMD.md",
+    "CMU_Advanced/07. Query Scheduling.md",
     "templates",
     "scripts/returnStudyOptions.js",
     "scripts/my_script.js",
