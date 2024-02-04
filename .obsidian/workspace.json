@@ -8,26 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4be29fbbf27e22b3",
+            "id": "809f35c503421377",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5cdc9a80c07ec4c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CMU_Intro/02. Modern SQL.md",
-                "mode": "source",
-                "source": false
+                "file": "images/Blog.png"
               }
             }
           }
@@ -97,8 +83,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
-                "collapseAll": false,
+                "file": "images/Blog.png",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -114,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "images/Blog.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,11 +123,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "images/Blog.png"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -160,23 +147,42 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4be29fbbf27e22b3",
+  "active": "babb051b28b88e74",
   "lastOpenFiles": [
-    "CMU_Intro/01. Relational Model & Model.md",
+    "CMU_Advanced/02. Modern Analytical DB systems (OLAP).md",
+    "images/Blog.png",
+    "images/DBT.png",
+    "images/ELT.png",
+    "images/ETL.png",
+    "images/Pasted Image 20240204135839_641.png",
+    "Pasted Image 20240204135429_560.png",
+    "Excalidraw/ELTvsETL.md",
+    "images/DB2.png",
+    "images/Pasted Image 20240204102843_840.png",
+    "images/DB1.png",
+    "images/OLAP3.png",
+    "Excalidraw/Row-vs-Column.md",
+    "Untitled.md",
+    "Excalidraw/Shared-Architecture.md",
+    "Excalidraw/OLAPv3.md",
+    "Excalidraw/OLAPv1.md",
+    "Excalidraw/OLAPv2.md",
+    "Excalidraw/OLAPv2 1.md",
     "CMU_Intro/02. Modern SQL.md",
+    "Excalidraw",
+    "CMU_Advanced/01. History of DBs.md",
     "README.md",
+    "CMU_Intro/01. Relational Model & Model.md",
     "SQL_Scripts/Example.js",
     "SQL_Scripts/Example.sql",
     "SQL_Scripts/Example copy.sql",
     "SQL_Scripts/Example.sql.md",
     "SQL_Scripts",
     "CMU_Advanced/08. Vectorized Query Execution with SIMD.md",
-    "CMU_Advanced/01. History of DBs.md",
     "CMU_Intro/05. Storage Models and DB Compression.md",
     "database-notes/README.md",
     "database-notes/LICENSE",
     "database-notes",
-    "CMU_Advanced/02. Modern Analytical DB systems.md",
     "CMU_Advanced/24. Amazon Redshift.md",
     "CMU_Advanced/Untitled.md",
     "CMU_Advanced/25..md",
@@ -185,28 +191,8 @@
     "CMU_Advanced/21. Snowflake Datawarehouse internals.md",
     "CMU_Advanced/20. Databricks Photon _ Spark SQL.md",
     "CMU_Advanced/19. Google BigQuery  & Dremel.md",
-    "CMU_Advanced/18..md",
-    "CMU_Advanced/17. Query Optimizer Implementations - Part 2.md",
-    "CMU_Advanced/16. Query Optimizer Implementations - Part 1.md",
-    "CMU_Advanced/15. DB Networking.md",
-    "CMU_Advanced/14. Server-side Logic execution _ User-defined Functions.md",
-    "CMU_Advanced/13. Multi-way _ Worst-case Optimal JOIN Algos.md",
-    "CMU_Advanced/12. Parallel Sort-Merge JOIN Algos.md",
-    "CMU_Advanced/10. Query Vectorization vs Compilation.md",
-    "CMU_Advanced/09. Query Compilation & JIT Code Generation.md",
     "templates",
     "scripts/returnStudyOptions.js",
-    "scripts/my_script.js",
-    "scripts/returnCMUPlaylist.js.js",
-    "images/ABC.png",
-    "images/PACLEC.png",
-    "images/CAP_DBs.png",
-    "images/CAP_P2.png",
-    "images/ACID.jpg",
-    "images/CAP_P1.png",
-    "images/CAP_C.png",
-    "images/CAP_A.png",
-    "images/CAP.jpg",
-    "images/BASE.jpg"
+    "scripts/my_script.js"
   ]
 }
